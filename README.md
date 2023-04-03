@@ -1,1 +1,3 @@
-# Proyecto-POO
+Integrantes:
+- Enzo Loren
+- Juan Paiva
